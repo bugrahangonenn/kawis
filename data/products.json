@@ -1,0 +1,187 @@
+{
+  "_help": "Each product: name, category (one of the category ids), image path, width, height. Set placeholder to false for real photos. Products appear in this order; the first 8 are shown on the home page.",
+  "categories": [
+    {
+      "id": "hoodies",
+      "name": "Hoodies & sweatshirts"
+    },
+    {
+      "id": "tracksuits",
+      "name": "Tracksuits"
+    },
+    {
+      "id": "knitwear",
+      "name": "Knitwear"
+    },
+    {
+      "id": "streetwear",
+      "name": "Streetwear"
+    },
+    {
+      "id": "kidswear",
+      "name": "Kidswear"
+    }
+  ],
+  "products": [
+    {
+      "name": "Zip hoodie",
+      "category": "hoodies",
+      "image": "/assets/img/placeholder-hoodies.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Men's tracksuit set",
+      "category": "tracksuits",
+      "image": "/assets/img/placeholder-tracksuits.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Crewneck jumper",
+      "category": "knitwear",
+      "image": "/assets/img/placeholder-knitwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Oversized T-shirt",
+      "category": "streetwear",
+      "image": "/assets/img/placeholder-streetwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Kids' tracksuit",
+      "category": "kidswear",
+      "image": "/assets/img/placeholder-kidswear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Pullover hoodie",
+      "category": "hoodies",
+      "image": "/assets/img/placeholder-hoodies.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Women's tracksuit set",
+      "category": "tracksuits",
+      "image": "/assets/img/placeholder-tracksuits.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Knit cardigan",
+      "category": "knitwear",
+      "image": "/assets/img/placeholder-knitwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Cargo trousers",
+      "category": "streetwear",
+      "image": "/assets/img/placeholder-streetwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Kids' hoodie",
+      "category": "kidswear",
+      "image": "/assets/img/placeholder-kidswear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Crewneck sweatshirt",
+      "category": "hoodies",
+      "image": "/assets/img/placeholder-hoodies.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Fleece jogger set",
+      "category": "tracksuits",
+      "image": "/assets/img/placeholder-tracksuits.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Half-zip knit",
+      "category": "knitwear",
+      "image": "/assets/img/placeholder-knitwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Graphic sweatshirt",
+      "category": "streetwear",
+      "image": "/assets/img/placeholder-streetwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Kids' two-piece set",
+      "category": "kidswear",
+      "image": "/assets/img/placeholder-kidswear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Fleece hoodie",
+      "category": "hoodies",
+      "image": "/assets/img/placeholder-hoodies.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Zip-top tracksuit",
+      "category": "tracksuits",
+      "image": "/assets/img/placeholder-tracksuits.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Knit vest",
+      "category": "knitwear",
+      "image": "/assets/img/placeholder-knitwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Casual shorts set",
+      "category": "streetwear",
+      "image": "/assets/img/placeholder-streetwear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    },
+    {
+      "name": "Kids' sweatshirt",
+      "category": "kidswear",
+      "image": "/assets/img/placeholder-kidswear.webp",
+      "width": 600,
+      "height": 750,
+      "placeholder": true
+    }
+  ]
+}
