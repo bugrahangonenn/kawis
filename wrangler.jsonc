@@ -1,6 +1,7 @@
 {
   "name": "kawisclothes",
   "compatibility_date": "2026-09-01",
+  "workers_dev": true,
   "assets": {
     "directory": "./",
     "html_handling": "auto-trailing-slash",
