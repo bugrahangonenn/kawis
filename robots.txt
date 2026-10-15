@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kawis.vercel.app/sitemap.xml
+Sitemap: https://kawisclothes.bugrahangonen0.workers.dev/sitemap.xml

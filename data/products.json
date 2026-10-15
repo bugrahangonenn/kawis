@@ -1,187 +1,181 @@
 {
-  "_help": "Each product: name, category (one of the category ids), image path, width, height. Set placeholder to false for real photos. Products appear in this order; the first 8 are shown on the home page.",
+  "_help": "Each product: name, category (one of the category ids), image path, width, height. Products appear in this order; the first 8 are shown on the home page.",
   "categories": [
     {
-      "id": "hoodies",
-      "name": "Hoodies & sweatshirts"
+      "id": "sweat",
+      "name": "Sweatshirts & hoodies"
     },
     {
-      "id": "tracksuits",
+      "id": "trousers",
+      "name": "Trousers & jeans"
+    },
+    {
+      "id": "outer",
+      "name": "Outerwear"
+    },
+    {
+      "id": "track",
       "name": "Tracksuits"
     },
     {
-      "id": "knitwear",
-      "name": "Knitwear"
-    },
-    {
-      "id": "streetwear",
-      "name": "Streetwear"
-    },
-    {
-      "id": "kidswear",
-      "name": "Kidswear"
+      "id": "knit",
+      "name": "Knitwear & T-shirts"
     }
   ],
   "products": [
     {
-      "name": "Zip hoodie",
-      "category": "hoodies",
-      "image": "/assets/img/placeholder-hoodies.webp",
+      "name": "Logo crewneck sweatshirts",
+      "category": "sweat",
+      "image": "/assets/img/products/p03.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Men's tracksuit set",
-      "category": "tracksuits",
-      "image": "/assets/img/placeholder-tracksuits.webp",
+      "name": "Slim-fit jeans, light wash",
+      "category": "trousers",
+      "image": "/assets/img/products/p04.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Crewneck jumper",
-      "category": "knitwear",
-      "image": "/assets/img/placeholder-knitwear.webp",
+      "name": "Hooded puffer jacket",
+      "category": "outer",
+      "image": "/assets/img/products/p12.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Oversized T-shirt",
-      "category": "streetwear",
-      "image": "/assets/img/placeholder-streetwear.webp",
+      "name": "Men's zip tracksuit, black",
+      "category": "track",
+      "image": "/assets/img/products/p18.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Kids' tracksuit",
-      "category": "kidswear",
-      "image": "/assets/img/placeholder-kidswear.webp",
+      "name": "Striped knit polo top",
+      "category": "knit",
+      "image": "/assets/img/products/p01.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Pullover hoodie",
-      "category": "hoodies",
-      "image": "/assets/img/placeholder-hoodies.webp",
+      "name": "Half-zip sweatshirts, five colours",
+      "category": "sweat",
+      "image": "/assets/img/products/p16.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Women's tracksuit set",
-      "category": "tracksuits",
-      "image": "/assets/img/placeholder-tracksuits.webp",
+      "name": "Slim-fit jeans, dark wash",
+      "category": "trousers",
+      "image": "/assets/img/products/p05.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Knit cardigan",
-      "category": "knitwear",
-      "image": "/assets/img/placeholder-knitwear.webp",
+      "name": "Quilted hooded jacket",
+      "category": "outer",
+      "image": "/assets/img/products/p21.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Cargo trousers",
-      "category": "streetwear",
-      "image": "/assets/img/placeholder-streetwear.webp",
+      "name": "Zip hoodies, three colours",
+      "category": "sweat",
+      "image": "/assets/img/products/p11.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Kids' hoodie",
-      "category": "kidswear",
-      "image": "/assets/img/placeholder-kidswear.webp",
+      "name": "Tailored stretch trousers",
+      "category": "trousers",
+      "image": "/assets/img/products/p02.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Crewneck sweatshirt",
-      "category": "hoodies",
-      "image": "/assets/img/placeholder-hoodies.webp",
+      "name": "Women's cropped puffer jacket",
+      "category": "outer",
+      "image": "/assets/img/products/p19.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Fleece jogger set",
-      "category": "tracksuits",
-      "image": "/assets/img/placeholder-tracksuits.webp",
+      "name": "Men's zip tracksuit, grey",
+      "category": "track",
+      "image": "/assets/img/products/p17.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Half-zip knit",
-      "category": "knitwear",
-      "image": "/assets/img/placeholder-knitwear.webp",
+      "name": "Embroidered T-shirt",
+      "category": "knit",
+      "image": "/assets/img/products/p20.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Graphic sweatshirt",
-      "category": "streetwear",
-      "image": "/assets/img/placeholder-streetwear.webp",
+      "name": "Embroidered crest sweatshirts",
+      "category": "sweat",
+      "image": "/assets/img/products/p07.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Kids' two-piece set",
-      "category": "kidswear",
-      "image": "/assets/img/placeholder-kidswear.webp",
+      "name": "Crewneck sweatshirts, seven colours",
+      "category": "sweat",
+      "image": "/assets/img/products/p15.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Fleece hoodie",
-      "category": "hoodies",
-      "image": "/assets/img/placeholder-hoodies.webp",
+      "name": "Zip-through hoodie",
+      "category": "sweat",
+      "image": "/assets/img/products/p10.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Zip-top tracksuit",
-      "category": "tracksuits",
-      "image": "/assets/img/placeholder-tracksuits.webp",
+      "name": "Back-print graphic sweatshirt",
+      "category": "sweat",
+      "image": "/assets/img/products/p08.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Knit vest",
-      "category": "knitwear",
-      "image": "/assets/img/placeholder-knitwear.webp",
+      "name": "Crewneck sweatshirts, three colours",
+      "category": "sweat",
+      "image": "/assets/img/products/p22.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Casual shorts set",
-      "category": "streetwear",
-      "image": "/assets/img/placeholder-streetwear.webp",
+      "name": "Embroidered logo sweatshirt",
+      "category": "sweat",
+      "image": "/assets/img/products/p09.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
     },
     {
-      "name": "Kids' sweatshirt",
-      "category": "kidswear",
-      "image": "/assets/img/placeholder-kidswear.webp",
+      "name": "Half-zip sweatshirt",
+      "category": "sweat",
+      "image": "/assets/img/products/p13.webp",
       "width": 600,
-      "height": 750,
-      "placeholder": true
+      "height": 750
+    },
+    {
+      "name": "Women's cropped sweatshirt",
+      "category": "sweat",
+      "image": "/assets/img/products/p14.webp",
+      "width": 600,
+      "height": 750
+    },
+    {
+      "name": "Slim-fit jeans, detail",
+      "category": "trousers",
+      "image": "/assets/img/products/p06.webp",
+      "width": 600,
+      "height": 750
     }
   ]
 }

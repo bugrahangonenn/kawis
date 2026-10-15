@@ -11,7 +11,7 @@ window.KAWIS_CONFIG = {
   // WhatsApp Business number: country code + number, digits only.
   // Example: "905321234567"  (no +, no spaces, no leading 0)
   // While empty, WhatsApp buttons are hidden and Telegram is shown instead.
-  WHATSAPP_NUMBER: "",
+  WHATSAPP_NUMBER: "903522228033",
 
   // Telegram catalogue channel (new stock added daily)
   TELEGRAM_URL: "https://t.me/+Jx1l1Yuqr8k2YzU0",
