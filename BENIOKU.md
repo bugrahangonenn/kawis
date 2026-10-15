@@ -16,4 +16,4 @@
 
 ## Henüz eksik olanlar
 - Google ID'leri boşken Google kodu hiç yüklenmez ve çerez banner'ı çıkmaz.
-- Alan adı gelince sitedeki `https://kawisclothes.bugrahangonen0.workers.dev` adresi gerçek adresle değiştirilmeli (index, catalogue, privacy, terms, 404, sitemap.xml, robots.txt).
+- Site adresi: https://kawisclothes.com (wrangler.jsonc içinde www ile birlikte tanımlı).
