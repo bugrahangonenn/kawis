@@ -17,7 +17,7 @@ window.KAWIS_CONFIG = {
   TELEGRAM_URL: "https://t.me/+Jx1l1Yuqr8k2YzU0",
 
   // Contact e-mail
-  EMAIL: "bugrahangonen0@gmail.com",
+  EMAIL: "info@kawisclothes.com",
 
   // Google Analytics 4 measurement ID, looks like "G-XXXXXXXXXX"
   GA_ID: "",
